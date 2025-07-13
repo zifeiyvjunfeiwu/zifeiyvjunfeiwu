@@ -1,5 +1,9 @@
 ## Hi there 👋
+一名在 0 和 1 的二元世界里，寻找非此即彼之外的优雅解的探索者。
 
+我不生产代码，只是逻辑的搬运工，致力于将混沌的人类思想，翻译成机器可以理解的精确诗篇。
+
+[ compiling thoughts... ]
 <!--
 **zifeiyvjunfeiwu/zifeiyvjunfeiwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
